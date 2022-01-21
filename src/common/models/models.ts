@@ -1,0 +1,1 @@
+export const PASSANGER = { name: 'passenger' }
